@@ -18,6 +18,12 @@
 
 
 
+body {
+	background-color: red !important;
+}
+
+
+
 
 /* 스킨 옵션 메뉴 */
 .articleheader-figure-semi.menu-fixed,
